@@ -33,5 +33,5 @@ I am Proficient in languages such as: **NEXT.js, REACT.JS, REACT HOOK FORM, REDU
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/maimoonhossain/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md. maimoon hossain shomoy" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/maimoonhossain/" onclick="window.open(this.href, '_blank'); return false;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md. maimoon hossain shomoy" height="30" width="40" /></a>
 </p>
