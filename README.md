@@ -7,7 +7,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=120&section=header"/>
 </p>
 
-<br />
+<br /><br />
 
 ## 👨‍💻 About Me
 
