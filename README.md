@@ -55,7 +55,7 @@
 | Project     | Stack Used | Live Link |
 |-------------|------------|-----------|
 | **NISE**    | Next.js, TailwindCSS, React Query | [nise.gov.bd](https://nise.gov.bd) |
-| **Paperremote** | Next.js, Zustand, TypeScript, TailwindCSS | [paperremote.com](https://paperremote.com) |
+| **Quantum Possibilities** | Next.js, Redux, TypeScript, TailwindCSS | [qposs.com](https://qposs.com) |
 
 ---
 
