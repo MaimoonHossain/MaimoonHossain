@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=120&section=header"/>
 </p>
-
 <h1 align="center">Hi there 👋, I'm Maimoon Hossain</h1>
 <h3 align="center">🚀 Frontend Developer | 2.5+ Years of Experience | Building fast, scalable, elegant UIs</h3>
 
