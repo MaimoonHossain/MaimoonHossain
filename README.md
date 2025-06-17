@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=0EA5E9&center=true&vCenter=true&multiline=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Maimoon+Hossain;Frontend+Developer+%7C+React+%7C+Next.js;Let%E2%80%99s+Build+Something+Awesome+Together!" alt="Typing SVG" />
 </p>
-<br /><br />
+<br /><br /><br />
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=120&section=header"/>
 </p>
