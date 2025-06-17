@@ -3,33 +3,36 @@
 </p>
 
 <h1 align="center">Hi there 👋, I'm Maimoon Hossain</h1>
-<h3 align="center">🚀 2.5+ Years Experienced Frontend Developer | Passionate about building scalable, beautiful interfaces</h3>
+<h3 align="center">🚀 Frontend Developer | 2.5+ Years of Experience | Building fast, scalable, elegant UIs</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0ea5e9?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/shadcn/ui-%23000000.svg?style=for-the-badge&logo=radixui&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TanStack_Query-ff4154?style=for-the-badge&logo=reactquery&logoColor=white"/>
 </p>
 
 ---
 
-### 🔥 A Little About Me
+### 👨‍💻 About Me
 
-- 🎓 Computer Science Graduate  
-- 💻 I specialize in modern frontend ecosystems like **React.js**, **Next.js**, and **TypeScript**
-- 💡 I focus on performance, clean UI, and accessibility
-- 🧠 Always learning new trends and technologies to stay ahead
-- 📈 Proficient with: `REACT HOOK FORM`, `REDUX`, `SWR`, `TAILWINDCSS`, `BOOTSTRAP`, `MUI`
-- 🚀 Worked on projects like [NISE](https://nise.gov.bd) and [Paperremote](https://paperremote.com)
+- 🎓 Computer Science Graduate
+- 🧠 Focused on building high-performance, accessible and responsive web apps
+- 💼 Worked on [NISE](https://nise.gov.bd) and [Paperremote](https://paperremote.com)
+- ⚡ Currently working with:
+  - `Next.js`, `React.js`, `TypeScript`, `TailwindCSS`, `ShadCN/UI`
+  - State: `Zustand`, `React Hook Form`, `TanStack Query`
+  - Tools: `Framer Motion`, `Vite`, `Radix UI`, `Headless UI`
 
 ---
 
-### 🛠️ Technologies & Tools
+### 🧰 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,nodejs,html,css,tailwind,materialui,bootstrap,sass,redux,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,vite,redux,figma,vercel,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=framer,reactquery,radixui" />
 </p>
 
 ---
@@ -47,12 +50,12 @@
 
 ---
 
-### 🚀 Featured Projects
+### 🛠️ Featured Projects
 
-| Project     | Tech Stack | Link |
-|-------------|------------|------|
-| **NISE**    | Next.js, React, TailwindCSS | [Visit Site](https://nise.gov.bd) |
-| **Paperremote** | Next.js, Redux, TypeScript | [Visit Site](https://paperremote.com) |
+| Project     | Stack Used | Live Link |
+|-------------|------------|-----------|
+| **NISE**    | Next.js, TailwindCSS, React Query | [nise.gov.bd](https://nise.gov.bd) |
+| **Paperremote** | Next.js, Zustand, TypeScript, TailwindCSS | [paperremote.com](https://paperremote.com) |
 
 ---
 
