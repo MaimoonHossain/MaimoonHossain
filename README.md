@@ -1,34 +1,82 @@
-<h1 align="center">Hello there! Nice meeting you.</h1>
+<h1 align="center">👋 Hello, I'm Maimoon Hossain</h1>
+<p align="center">
+  🚀 Mid to Senior Frontend Developer | Passionate about UI/UX, performance & scalability  
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/maimoonhossain/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
+  </a>
+  <a href="mailto:maimoonhossain.work@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail" />
+  </a>
+</p>
 
+---
+
+### 💼 About Me
+
+I'm a Computer Science graduate with over **2.5+ years** of professional experience as a **Frontend Developer**, building scalable, performant, and beautiful web apps. I specialize in **Next.js**, **React.js**, and modern frontend tools to create intuitive UIs and smooth user experiences.
+
+- 🧠 Focused on **performance, accessibility, and code maintainability**
+- 🌍 Open to **remote**, **part-time**, or **contract** frontend roles
+- 💬 Let's connect on [LinkedIn](https://www.linkedin.com/in/maimoonhossain/)
+
+---
+
+### 🔧 Tech Stack
+
+#### 🚀 Core Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=flat-square&logo=material-ui&logoColor=61DAFB)
 
-I'm a computer science graduate who is passionate about Software Engineering and Web Development. I am
-well versed in a variety of programming languages, including JavaScript and Python. In addition, I am a
-supportive and dedicated leader who can manage a team and meet deadlines.
+#### 🎨 Styling & UI
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0EA5E9?style=flat-square&logo=tailwindcss&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-EF0187?style=flat-square&logo=framer&logoColor=white)
+![Shadcn/UI](https://img.shields.io/badge/Shadcn/UI-1E293B?style=flat-square&logo=radix-ui&logoColor=white)
 
-I've worked on projects such as [NISE](https://nise.gov.bd) and [Paperremote](https://paperremote.com).
+#### 🧩 State & Data
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-593D88?style=flat-square&logo=redux&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![SWR](https://img.shields.io/badge/SWR-000000?style=flat-square&logo=vercel&logoColor=white)
 
-I am Proficient in languages such as: **NEXT.js, REACT.JS, REACT HOOK FORM, REDUX, SWR, JAVASCRIPT, TYPESCRIPT, TAILWINDCSS, BOOTSTRAP, MATERIAL UI**
+#### 🛠️ Tooling & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://material-ui.com/" target="_blank" rel="noreferrer"> <img src="https://material-ui.com/static/logo.svg" alt="material-ui" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maimoonhossain&show_icons=true&locale=en&layout=compact" alt="maimoonhossain" /></p>
+### 📌 Featured Projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maimoonhossain&show_icons=true&locale=en" alt="maimoonhossain" /></p>
+- 🎓 [**NISE**](https://nise.gov.bd) — Government skill development platform (UI engineering)
+- 📝 [**Paperremote**](https://paperremote.com) — Collaborative remote exam platform
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maimoonhossain&" alt="maimoonhossain" /></p>
+---
 
-<h3 align="left">Connect with me:</h3>
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maimoonhossain&show_icons=true&theme=radical" alt="Maimoon's GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maimoonhossain&layout=compact&theme=radical" height="165"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maimoonhossain&theme=radical" height="165" />
+</p>
+
+---
+
+### 🤝 Connect With Me
+
 <p align="left">
-<a href="https://www.linkedin.com/in/maimoonhossain/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md. maimoon hossain shomoy" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/maimoonhossain/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Maimoon_Hossain-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:maimoonhossain.work@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
 </p>
