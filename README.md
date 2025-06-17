@@ -83,19 +83,6 @@
 
 ---
 
-## 📌 Pinned Projects
-
-<p align="center">
-  <a href="https://github.com/maimoonhossain/pakiza-crm-frontend">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maimoonhossain&repo=pakiza-crm-frontend&theme=react&hide_border=true" />
-  </a>
-  <a href="https://github.com/maimoonhossain/react-form-builder">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maimoonhossain&repo=react-form-builder&theme=react&hide_border=true" />
-  </a>
-</p>
-
----
-
 ## 🗓️ Contribution Graph
 
 <p align="center">
