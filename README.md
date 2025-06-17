@@ -1,13 +1,17 @@
 <!-- Hero Header -->
+<h1 align="center">Hey there! 👋 I'm <span style="color:#0ea5e9;">Maimoon Hossain</span></h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=0EA5E9&center=true&vCenter=true&multiline=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Maimoon+Hossain;Frontend+Developer+%7C+React+%7C+Next.js;Let%E2%80%99s+Build+Something+Awesome+Together!" alt="Typing SVG" />
+  🧑‍💻 Frontend Developer | ⚡ Passionate about Performance, UI/UX & Beautiful Code  
 </p>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=120&section=header"/>
+  <a href="https://www.linkedin.com/in/maimoonhossain/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:maimoonhossain.work@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=maimoonhossain&style=for-the-badge&color=blueviolet" alt="Profile views" />
 </p>
-
-<br />
 
 ## 👨‍💻 About Me
 
