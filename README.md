@@ -1,7 +1,7 @@
 <!-- Hero Header -->
 <!-- Typing Introduction FIRST -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=0EA5E9&center=true&vCenter=true&multiline=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Maimoon+Hossain;Frontend+Developer+%7C+React+%7C+Next.js;Let%E2%80%99s+Build+Something+Awesome+Together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=0EA5E9&center=true&vCenter=true&multiline=true&width=1000&lines=Hi+%F0%9F%91%8B+I'm+Maimoon+Hossain;Frontend+Developer+%7C+React+%7C+Next.js;Let%E2%80%99s+Build+Something+Awesome+Together!" alt="Typing SVG" />
 </p>
 
 <!-- Spacer to keep separation -->
