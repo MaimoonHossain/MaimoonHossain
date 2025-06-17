@@ -60,12 +60,4 @@
 
 ### 📬 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/maimoonhossain/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=120&section=footer"/>
-</p>
+<p align="center"> <a href="https://www.linkedin.com/in/maimoonhossain/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <!-- Future links can be added here, like GitHub or portfolio --> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=120&section=footer"/> </p>
