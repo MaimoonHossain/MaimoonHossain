@@ -19,7 +19,7 @@
 
 - 🎓 Computer Science Graduate
 - 🧠 Focused on building high-performance, accessible and responsive web apps
-- 💼 Worked on [NISE](https://nise.gov.bd) and [Paperremote](https://paperremote.com)
+- 💼 Worked on [Quantum Possibilities](https://qposs.com) and [NISE](https://nise.gov.bd)
 - ⚡ Currently working with:
   - `Next.js`, `React.js`, `TypeScript`, `TailwindCSS`, `ShadCN/UI`
   - State: `Zustand`, `React Hook Form`, `TanStack Query`
@@ -53,8 +53,8 @@
 
 | Project     | Stack Used | Live Link |
 |-------------|------------|-----------|
-| **NISE**    | Next.js, TailwindCSS, React Query | [nise.gov.bd](https://nise.gov.bd) |
 | **Quantum Possibilities** | Next.js, Redux, TypeScript, TailwindCSS | [qposs.com](https://qposs.com) |
+| **NISE**    | Next.js, TailwindCSS, React Query | [nise.gov.bd](https://nise.gov.bd) |
 
 ---
 
